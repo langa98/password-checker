@@ -67,11 +67,12 @@ Contains digits
 Contains special symbols
 
 Each rule adds to your total score, which decides the final rating.
-📄 License
-
-This project uses the MIT License, meaning you can use, copy, modify, and share it freely.
-
-🤝 Contributing
+```
+## 📄 License
+```
+This project is provided for educational and personal use. No warranty is expressed or implied
+```
+## 🤝 Contributing
 
 Contributions are welcome!
 Feel free to open a pull request or report issues
